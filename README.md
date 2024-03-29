@@ -4,6 +4,7 @@
 - SQL, Neo4j, MongoDB
 - Apache Kafka and Spark
 - Protocols, IP Addressing and Subnetting, Proxy Server Configuration, Wireshark and SNMP Monitoring
+- Newbie in Graph Neural Networks
 - 📫 How to reach me --> memreakbulut@gmail.com
 
 
